@@ -1,0 +1,25 @@
+.timeBill{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.timetDiv, .ponitDiv{
+    display: flex;
+    width: 60px;
+    height: 85px;
+    background: repeating-radial-gradient(#ca9f9f8a, transparent 100px);
+    border-radius: 20px 0 0 20px;
+    padding-bottom: 0px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+}
+.ponitDiv{
+    margin-bottom: 20px;
+} 
+.timeTitle, .time, .ponit, .pointTitle{
+    font-weight: 100;
+    margin: 0;
+}

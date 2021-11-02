@@ -1,0 +1,8 @@
+.board{
+    bottom: 50px;
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    background: #7b6565b9;
+    border-radius: 20px;
+};

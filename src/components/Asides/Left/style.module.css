@@ -1,0 +1,27 @@
+.bollsTypes{
+    width: 60px;
+    background: repeating-radial-gradient(#ca9f9f8a, transparent 100px);
+    border-radius: 0px 20px 20px 0px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+}
+.typesTitle{
+    opacity: 0.6;
+    font-weight: 100;
+    margin-bottom: -10px;
+}
+.bollsTypesDiv{
+    display:flex;
+    align-items:center;
+    margin-bottom: -30px;
+}
+.boolImageTypes{
+    width: 25px; 
+    height: 25px;
+    border-radius: 25px;
+    opacity: 0.7;
+}
+.bollsPointTypes{
+    font-weight:100;
+    opacity:0.7;
+}
